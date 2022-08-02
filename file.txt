@@ -1,6 +1,12 @@
-
+Hello world
 This is the update for new user name and new email
+
 This is for master branch 02/08/2022
 updated featureOne Branch
 
+
+This is the update for new user name and new emai
+
+
 This is for confilct updation 02/08/2022
+This is for featureOne conflict 
